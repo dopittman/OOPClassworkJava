@@ -2,6 +2,8 @@ package AssignmentTwo;
 
 
 public class Instructor {
+
+    //  Variables
     private String title;
     private String firstName;
     private String lastName;
@@ -73,10 +75,5 @@ public class Instructor {
         this.designation = designation;
         this.course = course;
         this.institution = institution;
-    }
-
-    public static void main(String[] args) {
-        // write your code here
-
     }
 }

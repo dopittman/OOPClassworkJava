@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../OOPClasswork/OOPClassworkJava/FindPerson/FindPerson.iml" filepath="$PROJECT_DIR$/../OOPClasswork/OOPClassworkJava/FindPerson/FindPerson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FindPerson.iml" filepath="$PROJECT_DIR$/FindPerson.iml" />
     </modules>
   </component>
 </project>
