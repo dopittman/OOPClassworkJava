@@ -63,7 +63,7 @@ public class Instructor {
     }
 
     // Write string with all content
-    public String toString() {
+    public String   toString() {
         return String.format("%s %s %s is an %s at %s and, he teaches %s", title, firstName, lastName, designation, institution, course);
     }
 

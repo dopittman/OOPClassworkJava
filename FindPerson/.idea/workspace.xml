@@ -20,19 +20,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fec1522c-b060-46b6-b621-04e765a2d459" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AssignmentTwo/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindPerson/AssignmentTwo/Address.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindPerson/AssignmentTwo/Address.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindPerson/AssignmentTwo/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindPerson/AssignmentTwo/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/AssignmentTwo/Instructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AssignmentTwo/Instructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AssignmentTwo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AssignmentTwo/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -50,7 +55,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.Address">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Address" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AssignmentTwo.Address" />
       <module name="FindPerson" />
@@ -90,8 +95,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Address" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Address" />
       </list>
     </recent_temporary>
   </component>
@@ -103,7 +108,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600989060400</updated>
-      <workItem from="1600989061423" duration="360000" />
+      <workItem from="1600989061423" duration="4247000" />
     </task>
     <servers />
   </component>
@@ -122,21 +127,29 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="207" key="GridCell.Tab.0.bottom" timestamp="1600989416756">
+    <state width="1398" height="207" key="GridCell.Tab.0.bottom" timestamp="1600993300095">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state width="1398" height="207" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1600989416756" />
-    <state width="1398" height="207" key="GridCell.Tab.0.center" timestamp="1600989416756">
+    <state width="1398" height="207" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1600993300095" />
+    <state width="1398" height="207" key="GridCell.Tab.0.center" timestamp="1600993300094">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state width="1398" height="207" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1600989416756" />
-    <state width="1398" height="207" key="GridCell.Tab.0.left" timestamp="1600989416755">
+    <state width="1398" height="207" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1600993300094" />
+    <state width="1398" height="207" key="GridCell.Tab.0.left" timestamp="1600993300094">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state width="1398" height="207" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1600989416755" />
-    <state width="1398" height="207" key="GridCell.Tab.0.right" timestamp="1600989416756">
+    <state width="1398" height="207" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1600993300094" />
+    <state width="1398" height="207" key="GridCell.Tab.0.right" timestamp="1600993300095">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state width="1398" height="207" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1600989416756" />
+    <state width="1398" height="207" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1600993300095" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1600993251999">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/0.23.1440.806@0.23.1440.806" timestamp="1600993251999" />
+    <state x="385" y="153" width="670" height="676" key="search.everywhere.popup" timestamp="1600991135252">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="385" y="153" width="670" height="676" key="search.everywhere.popup/0.23.1440.806@0.23.1440.806" timestamp="1600991135252" />
   </component>
 </project>
