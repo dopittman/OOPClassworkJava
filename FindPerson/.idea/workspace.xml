@@ -21,8 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fec1522c-b060-46b6-b621-04e765a2d459" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FindPerson/AssignmentTwo/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindPerson/AssignmentTwo/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AssignmentTwo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AssignmentTwo/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,17 +77,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
@@ -105,7 +92,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600989060400</updated>
-      <workItem from="1600989061423" duration="6370000" />
+      <workItem from="1600989061423" duration="8868000" />
+      <workItem from="1601645435876" duration="249000" />
     </task>
     <servers />
   </component>
@@ -122,31 +110,36 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="207" key="GridCell.Tab.0.bottom" timestamp="1600995422714">
+    <state width="1398" height="207" key="GridCell.Tab.0.bottom" timestamp="1601005264294">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state width="1398" height="207" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1600995422714" />
-    <state width="1398" height="207" key="GridCell.Tab.0.center" timestamp="1600995422713">
+    <state width="1398" height="207" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1601005264294" />
+    <state width="1398" height="207" key="GridCell.Tab.0.center" timestamp="1601005264293">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state width="1398" height="207" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1600995422713" />
-    <state width="1398" height="207" key="GridCell.Tab.0.left" timestamp="1600995422713">
+    <state width="1398" height="207" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1601005264293" />
+    <state width="1398" height="207" key="GridCell.Tab.0.left" timestamp="1601005264292">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state width="1398" height="207" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1600995422713" />
-    <state width="1398" height="207" key="GridCell.Tab.0.right" timestamp="1600995422714">
+    <state width="1398" height="207" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1601005264292" />
+    <state width="1398" height="207" key="GridCell.Tab.0.right" timestamp="1601005264293">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state width="1398" height="207" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1600995422714" />
+    <state width="1398" height="207" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1601005264293" />
     <state width="600" height="428" key="javadoc.popup" timestamp="1600993251999">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state width="600" height="428" key="javadoc.popup/0.23.1440.806@0.23.1440.806" timestamp="1600993251999" />
-    <state x="385" y="153" width="670" height="676" key="search.everywhere.popup" timestamp="1600991135252">
+    <state x="319" y="47" key="new project wizard" timestamp="1601645681270">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state x="319" y="47" key="new project wizard/0.23.1440.803@0.23.1440.803" timestamp="1601645681270" />
+    <state x="385" y="153" width="670" height="676" key="search.everywhere.popup" timestamp="1600995510089">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state x="385" y="153" width="670" height="676" key="search.everywhere.popup/0.23.1440.806@0.23.1440.806" timestamp="1600991135252" />
+    <state x="385" y="153" width="670" height="676" key="search.everywhere.popup/0.23.1440.806@0.23.1440.806" timestamp="1600995510089" />
   </component>
 </project>
