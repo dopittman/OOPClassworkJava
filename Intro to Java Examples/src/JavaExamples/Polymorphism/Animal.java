@@ -10,16 +10,17 @@ package JavaExamples.Polymorphism;
     }
 }
 
- class Dog extends Animal {
+  class Dog extends Animal {
     public void animalNoise(){
         System.out.println("Bark! Bark!");
-    };
+    }
 
     public void legCount(){
         System.out.println("I have 4 legs.");
     }
 }
 
+  //
  class Cat extends Animal {
      public void animalNoise(){
          System.out.println("Meow!");

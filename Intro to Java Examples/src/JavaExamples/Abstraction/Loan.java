@@ -1,5 +1,8 @@
 
-//  This example is a demonstration in abstraction and encapsulation
+/*  This example is a demonstration in abstraction and encapsulation
+    The usage of the Loan class's methods are 'abstracted' from the user.
+    For abstract class and abstract methods see the 'AbstractCar' class
+*/
 
 package JavaExamples.Abstraction;
 
