@@ -18,6 +18,7 @@ package JavaExamples.Polymorphism;
     public void legCount(){
         System.out.println("I have 4 legs.");
     }
+
 }
 
   //
@@ -29,6 +30,7 @@ package JavaExamples.Polymorphism;
      public void legCount(){
          System.out.println("I have 4 legs.");
      }
+
  }
 
  class Kangaroo extends Animal {
