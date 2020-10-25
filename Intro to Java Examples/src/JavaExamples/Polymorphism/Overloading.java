@@ -32,3 +32,11 @@ public class Overloading {
     }
 }
 
+class Override extends Overloading {
+
+    //  Overrides the 'Overloading' class's multiplyNums
+    int multiplyNums(int one, int two, int three){
+        return one * three;
+    }
+}
+
