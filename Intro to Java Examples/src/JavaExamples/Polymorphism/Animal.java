@@ -1,3 +1,10 @@
+/*
+*  This class is an example of basic polymorphism.
+*  It shows how to inherit/extend from a parent/Super class and alter
+*    methods from the parent.
+* */
+
+
 package JavaExamples.Polymorphism;
 
  class Animal {
